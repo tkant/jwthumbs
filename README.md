@@ -64,7 +64,7 @@ If you're using JWPlayer, there is a cool tutorial on their web site, see [Addin
 
 ## Configuration
 
-`:outdir` (string): The path you want your files to be exported. Example: /this/is/my/path 
+`:thumb_outdir` (string): The path you want your files to be exported. Example: /this/is/my/path 
 
 `:seconds_between` (integer): Time in seconds between each of snapshots to be taken. Default is video duration / 10. 
 
